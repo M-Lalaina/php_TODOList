@@ -1,0 +1,29 @@
+body {
+    background: #0a1a2c;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+th {
+    background: #c4c4c4;
+}
+th,
+td {
+    padding: 0.5rem;
+    border: 1px solid #7c7c7c;
+}
+#btn_submit {
+    background-color: rgba(0, 59, 117, 0.38);
+    border-radius: 10px;
+    border: 1px solid rgb(19, 47, 76);
+}
+.bg_delete {
+    background: #863d44;
+    border: 1px solid #741919;
+}
+.bg_update {
+    background: #04967b;
+    border: 1px solid #57b393;
+}
